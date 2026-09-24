@@ -14,7 +14,7 @@ export function Hero() {
         </span>
 
         <h1 className="mt-6 text-balance text-4xl font-bold tracking-tight sm:text-6xl">
-          Play multiplayer games with friends, straight from your phone
+          One room code. 36 games. No installs.
         </h1>
 
         <p className="mt-6 text-pretty text-lg leading-relaxed text-muted-foreground sm:text-xl">
