@@ -22,7 +22,7 @@ export function Hero() {
           games — from Tic-Tac-Toe and Chess to Werewolf, Poker and Kart Racing.
         </p>
 
-        <p className="mt-4 text-base font-medium text-primary">Now on GitHub. Public playtest coming soon.</p>
+        <p className="mt-4 text-base font-medium text-primary">Open source on GitHub. Public playtest coming soon.</p>
 
         <div className="mt-8 flex flex-col items-center gap-3 sm:flex-row">
           <Button asChild size="lg">
