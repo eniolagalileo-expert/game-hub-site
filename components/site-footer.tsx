@@ -20,6 +20,7 @@ export function SiteFooter() {
         <p className="mt-12 text-sm text-muted-foreground">
           Made by <span className="font-medium text-foreground">Eniola Olaleye</span>
         </p>
+        <p className="mt-2 text-xs text-muted-foreground">Last updated from the terminal, October 2026.</p>
       </div>
     </footer>
   )
